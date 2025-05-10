@@ -50,7 +50,6 @@ body{
 }
 
 ul {
-  margin: 16px;
   list-style-type: none;
   height: 100vh;
 }
@@ -59,7 +58,7 @@ li a{
   font-size: 24px;
   color: white;
   text-decoration: none;
-  justify-content: space-between;
+  margin-left: -50px;
 }
 
 .container{
